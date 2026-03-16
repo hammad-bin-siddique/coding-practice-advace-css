@@ -61,6 +61,7 @@ body{
 .grid-items-2{
     grid-area: menu;
 background-color:white;
+color:black;
 padding:2em;}
 .grid-items-3{
     grid-area: main;
